@@ -1,0 +1,9 @@
+export const patients: any[] = [];
+export const prescriptions: any[] = [];
+export const consultationChartData: any[] = [];
+export const medicineUsageData: any[] = [];
+export const patientMedicineSchedule: any[] = [];
+export const patientPrescriptions: any[] = [];
+export const staffMembers: any[] = [];
+export const patientQueue: any[] = [];
+export const doctorTodaysPatients: any[] = [];
