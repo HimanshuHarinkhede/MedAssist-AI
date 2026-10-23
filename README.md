@@ -224,7 +224,7 @@ Warnings are returned in a `warnings` array and shown to the doctor before anyth
 ## Repository Structure
 
 ```text
-medassist-ai-suite/
+MedAssist-AI/
 ├── backend/
 │   ├── ai/                 # agent.js, genai.js (LLM), nlp.js (regex fallback), validator.js
 │   ├── config/             # Supabase client and seed helpers
@@ -267,8 +267,8 @@ medassist-ai-suite/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+   git clone https://github.com/HimanshuHarinkhede/MedAssist-AI.git
+   cd MedAssist-AI
 ```
 
 ### 2. Install dependencies
